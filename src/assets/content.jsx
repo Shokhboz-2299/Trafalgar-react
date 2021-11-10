@@ -1,6 +1,6 @@
 const content = {
   uz: {
-    headerNav: ["Uy", "Ilovalar", "Guvohlar", "Shifokorni qidirish", "Biz haqimizda"],
+    headerNav: ["Bosh sahifa", "Ilovalar", "Guvohlar", "Shifokorni qidirish", "Biz haqimizda"],
     heroTitle: " Siz uchun virtual sog'liqni saqlash",
     heroText: "Trafalgar ilg'or va arzon tibbiy xizmatni taqdim etadi, har bir kishi uchun mobil va onlayn foydalanish mumkin",
     heroButton: "Bugun maslahatlashing",
@@ -96,7 +96,7 @@ const content = {
     ],
   },
   ru: {
-    headerNav: ["Дом", "Программы", "Отзывы", "Найти врача", "О нас"],
+    headerNav: ["главная", "Программы", "Отзывы", "Найти врача", "О нас"],
     heroTitle: " Виртуальное здравоохранение для вас",
     heroText: "Трафальгар предоставляет прогрессивное и доступное медицинское обслуживание, доступное на мобильных устройствах и в Интернете для всех.",
     heroButton: "Проконсультируйтесь сегодня",
